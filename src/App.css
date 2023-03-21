@@ -92,7 +92,7 @@ textarea {
   z-index: 1;
 }
 
-.submitForm:hover {
+.submit-form:hover {
   cursor: pointer;
 }
 
